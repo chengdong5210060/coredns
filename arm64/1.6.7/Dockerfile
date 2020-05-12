@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.6.7
+FROM coredns/coredns@a46c07fa2a50
