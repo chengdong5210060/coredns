@@ -1,1 +1,1 @@
-FROM coredns/coredns@sha256:a46c07fa2a50
+FROM coredns/coredns@sha256:a46c07fa2a502040e5e7fe0cc7169165f09f348ee178b22d1fe4aa4cb959523e
