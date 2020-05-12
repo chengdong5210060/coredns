@@ -1,1 +1,1 @@
-FROM --platform arm64 coredns/coredns:1.6.7
+FROM coredns/coredns@sha256:a46c07fa2a50
